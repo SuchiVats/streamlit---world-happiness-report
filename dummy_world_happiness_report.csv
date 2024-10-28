@@ -1,0 +1,163 @@
+Year,Country,Region,Happiness Score,GDP per capita,Healthy life expectancy
+2015,United States,North America,6.21,43652.95,64.56
+2015,Canada,North America,4.96,1638.9,58.02
+2015,Brazil,South America,3.34,39124.02,70.93
+2015,Germany,Europe,3.1,27549.22,71.41
+2015,United Kingdom,Europe,5.01,13300.1,75.09
+2015,France,Europe,4.52,47717.53,60.46
+2015,Australia,Oceania,6.66,37017.15,79.07
+2015,India,Asia,7.5,59349.6,82.09
+2015,China,Asia,4.36,42094.64,60.76
+2015,Japan,Asia,3.66,58379.35,62.56
+2015,South Africa,Africa,4.17,16575.77,62.77
+2015,Russia,Europe,3.47,44689.62,54.53
+2015,Mexico,North America,6.39,48768.85,64.05
+2015,Italy,Europe,6.03,37697.79,76.1
+2015,Spain,Europe,5.21,48658.23,55.52
+2015,South Korea,Asia,5.79,28642.35,59.41
+2015,Argentina,South America,4.33,20046.53,53.27
+2015,Nigeria,Africa,3.29,53150.29,54.23
+2016,United States,North America,3.9,48157.68,58.56
+2016,Canada,North America,6.37,7329.01,59.65
+2016,Brazil,South America,3.7,43806.04,58.28
+2016,Germany,Europe,7.79,8968.68,51.56
+2016,United Kingdom,Europe,3.64,37915.34,62.81
+2016,France,Europe,3.26,4809.35,69.93
+2016,Australia,Oceania,7.18,45842.39,78.72
+2016,India,Asia,7.08,5699.59,69.67
+2016,China,Asia,5.2,57187.05,80.67
+2016,Japan,Asia,4.22,46405.95,80.05
+2016,South Africa,Africa,6.98,37540.29,71.44
+2016,Russia,Europe,7.61,37456.19,70.57
+2016,Mexico,North America,4.11,44092.53,66.43
+2016,Italy,Europe,5.74,29303.58,54.28
+2016,Spain,Europe,5.89,8535.12,73.04
+2016,South Korea,Asia,5.15,2420.5,58.34
+2016,Argentina,South America,6.89,33050.8,68.67
+2016,Nigeria,Africa,4.7,35784.18,81.33
+2017,United States,North America,7.22,18654.94,73.77
+2017,Canada,North America,5.39,19198.33,58.04
+2017,Brazil,South America,4.64,43841.7,67.29
+2017,Germany,Europe,6.23,52490.53,80.6
+2017,United Kingdom,Europe,7.79,32223.26,60.89
+2017,France,Europe,3.21,39339.77,62.41
+2017,Australia,Oceania,4.62,46762.42,75.21
+2017,India,Asia,5.56,57159.64,77.6
+2017,China,Asia,3.39,24007.44,55.56
+2017,Japan,Asia,6.43,59160.88,67.33
+2017,South Africa,Africa,7.08,38440.68,79.95
+2017,Russia,Europe,3.27,50849.44,61.55
+2017,Mexico,North America,5.69,46182.06,62.24
+2017,Italy,Europe,6.38,11858.29,82.41
+2017,Spain,Europe,6.66,33802.18,65.12
+2017,South Korea,Asia,7.19,59962.54,69.74
+2017,Argentina,South America,4.15,30914.09,68.02
+2017,Nigeria,Africa,6.61,47340.41,71.42
+2018,United States,North America,6.78,18401.0,56.62
+2018,Canada,North America,5.43,43902.64,67.8
+2018,Brazil,South America,6.61,30103.08,76.29
+2018,Germany,Europe,3.92,33304.58,55.26
+2018,United Kingdom,Europe,5.06,13351.16,65.7
+2018,France,Europe,7.05,24061.5,75.68
+2018,Australia,Oceania,4.08,25721.57,82.5
+2018,India,Asia,7.71,45773.96,83.34
+2018,China,Asia,5.21,29388.29,52.91
+2018,Japan,Asia,5.29,15041.23,78.34
+2018,South Africa,Africa,4.67,25343.51,73.69
+2018,Russia,Europe,7.3,38887.97,67.73
+2018,Mexico,North America,7.78,6067.97,62.32
+2018,Italy,Europe,3.95,47805.02,79.48
+2018,Spain,Europe,6.4,22271.81,67.16
+2018,South Korea,Asia,5.74,28770.93,72.35
+2018,Argentina,South America,7.42,7466.68,57.33
+2018,Nigeria,Africa,3.94,5600.88,53.37
+2019,United States,North America,5.0,13363.58,70.95
+2019,Canada,North America,3.6,38869.67,80.09
+2019,Brazil,South America,4.26,54991.05,75.67
+2019,Germany,Europe,6.88,34853.91,52.03
+2019,United Kingdom,Europe,4.93,28950.93,65.07
+2019,France,Europe,6.85,12159.28,64.3
+2019,Australia,Oceania,4.83,31255.6,80.56
+2019,India,Asia,4.05,11775.74,58.5
+2019,China,Asia,6.13,37826.27,57.61
+2019,Japan,Asia,3.01,33276.08,58.34
+2019,South Africa,Africa,6.19,49277.57,59.53
+2019,Russia,Europe,7.71,21042.28,71.71
+2019,Mexico,North America,4.87,21673.6,59.37
+2019,Italy,Europe,4.61,18866.27,54.05
+2019,Spain,Europe,5.23,20640.75,72.61
+2019,South Korea,Asia,4.5,10111.75,74.77
+2019,Argentina,South America,6.27,52974.62,81.55
+2019,Nigeria,Africa,4.63,48515.76,55.94
+2020,United States,North America,6.33,54871.53,58.81
+2020,Canada,North America,6.81,5105.54,79.09
+2020,Brazil,South America,6.88,27909.78,62.16
+2020,Germany,Europe,4.89,51350.22,68.08
+2020,United Kingdom,Europe,3.78,11743.73,54.17
+2020,France,Europe,6.9,58483.67,82.27
+2020,Australia,Oceania,4.22,36229.68,69.0
+2020,India,Asia,6.38,43530.22,65.12
+2020,China,Asia,7.54,2936.63,55.69
+2020,Japan,Asia,7.22,9219.27,65.9
+2020,South Africa,Africa,5.86,30750.03,75.83
+2020,Russia,Europe,6.23,56514.03,82.05
+2020,Mexico,North America,4.86,57454.42,74.76
+2020,Italy,Europe,4.08,34983.81,56.7
+2020,Spain,Europe,5.53,4211.33,76.02
+2020,South Korea,Asia,4.29,26946.95,50.25
+2020,Argentina,South America,5.14,33670.0,71.64
+2020,Nigeria,Africa,3.45,13745.19,62.3
+2021,United States,North America,6.8,34219.8,65.99
+2021,Canada,North America,5.18,49988.13,78.17
+2021,Brazil,South America,5.98,32069.44,68.62
+2021,Germany,Europe,5.61,56186.17,79.43
+2021,United Kingdom,Europe,3.21,44608.51,62.37
+2021,France,Europe,6.02,3173.68,53.76
+2021,Australia,Oceania,3.67,17168.25,65.12
+2021,India,Asia,6.48,35841.4,82.61
+2021,China,Asia,3.54,25586.39,74.32
+2021,Japan,Asia,4.54,29358.19,68.88
+2021,South Africa,Africa,4.72,8919.38,61.98
+2021,Russia,Europe,3.61,21479.8,77.0
+2021,Mexico,North America,5.76,35960.87,73.55
+2021,Italy,Europe,7.91,35828.35,77.22
+2021,Spain,Europe,3.15,30671.16,79.4
+2021,South Korea,Asia,3.53,12295.47,56.41
+2021,Argentina,South America,6.38,28280.97,63.7
+2021,Nigeria,Africa,4.56,24046.27,52.94
+2022,United States,North America,6.45,49825.77,80.08
+2022,Canada,North America,6.89,58961.76,69.45
+2022,Brazil,South America,6.34,45607.01,78.33
+2022,Germany,Europe,6.82,6161.83,81.56
+2022,United Kingdom,Europe,7.77,47521.71,54.89
+2022,France,Europe,7.46,33777.11,72.5
+2022,Australia,Oceania,5.71,6927.31,80.87
+2022,India,Asia,3.23,7684.76,75.55
+2022,China,Asia,5.71,22695.72,67.52
+2022,Japan,Asia,5.54,6553.57,65.68
+2022,South Africa,Africa,4.98,17949.78,54.08
+2022,Russia,Europe,4.47,24818.83,62.35
+2022,Mexico,North America,4.96,25624.26,52.83
+2022,Italy,Europe,7.74,57404.42,61.47
+2022,Spain,Europe,7.23,54360.97,52.28
+2022,South Korea,Asia,6.64,35880.51,55.06
+2022,Argentina,South America,5.1,2611.63,81.57
+2022,Nigeria,Africa,7.98,24482.96,60.01
+2023,United States,North America,4.96,20852.15,76.01
+2023,Canada,North America,5.85,15515.06,51.32
+2023,Brazil,South America,5.95,24727.19,59.95
+2023,Germany,Europe,3.22,1078.79,77.71
+2023,United Kingdom,Europe,6.25,52601.18,65.65
+2023,France,Europe,7.68,51747.82,57.45
+2023,Australia,Oceania,3.49,15049.25,50.58
+2023,India,Asia,4.11,20937.45,79.59
+2023,China,Asia,6.96,18459.79,82.99
+2023,Japan,Asia,4.27,34698.88,51.26
+2023,South Africa,Africa,6.29,45055.05,84.72
+2023,Russia,Europe,3.2,51411.62,64.92
+2023,Mexico,North America,5.42,11846.88,66.24
+2023,Italy,Europe,4.39,32231.61,57.32
+2023,Spain,Europe,4.58,8877.49,74.22
+2023,South Korea,Asia,3.92,12628.31,58.63
+2023,Argentina,South America,4.61,15960.77,74.46
+2023,Nigeria,Africa,3.24,52459.78,57.06
